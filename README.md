@@ -23,7 +23,7 @@ elements in the DOM hierarchy. In other words, the event starts at the target el
 
 How it works:
 
-a. If we click a button inside a <div>.
+a. If we click a button inside a div tag.
 
 b. The click event first triggers on the button (the target).
 
