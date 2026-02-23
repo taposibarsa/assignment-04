@@ -6,7 +6,7 @@ querySelector(): returns the first child element that matches a specified CSS se
 querySelectorAll(): returns all child elements that matches a CSS selector(s)
 
 **Ans 2.
-Create the element: Using the document.createElement() we will make a new element like a <div> or <p>.
+Create the element: Using the document.createElement() we will make a new element like a div or p.
 
 Add content and attributes: Then we will set text content using element.textContent, 
 We can add attributes using element.setAttribute(name, value) or by directly accessing properties 
